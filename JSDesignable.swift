@@ -1,6 +1,5 @@
 //
-//  Extension.swift
-//  sudoku-solver-ios
+//  JSDesignable.swift
 //
 //  Created by JOGENDRA on 25/12/17.
 //  Copyright © 2017 Jogendra Singh. All rights reserved.
